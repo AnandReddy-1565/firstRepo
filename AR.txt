@@ -1,3 +1,7 @@
 This is the first file i created to leart the git tool!
 
 To learn further i edit this file more times and commit it!!
+
+to commit further more i edit this file further more!
+
+to re write history commiting one more file!
